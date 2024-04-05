@@ -19,4 +19,8 @@ limitations under the License.
 ## Description
 
 This Repo was created for the 1st exercise of the course Open source_S2024
- A simple example of a supply chain simulation in Python. This example includes two functions: one to calculate the total cost of transporting goods and another to optimize the distribution of goods given certain constraints.
+A simple example of a supply chain simulation in Python. This example includes two functions: one to calculate the total cost of transporting goods and another to optimize the distribution of goods given certain constraints.
+For the calculation of the total transportation cost, the parameters are the quantity, distance, freight_cost_per_unit and for the optimization_distribution are supply and demand under the folowing constrains: 
+supply_quantity = 1000  
+demand_quantity = 800   
+distance = 500 
