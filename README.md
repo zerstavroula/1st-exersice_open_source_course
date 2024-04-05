@@ -19,3 +19,4 @@ limitations under the License.
 ## Description
 
 This Repo was created for the 1st exercise of the course Open source_S2024
+ A simple example of a supply chain simulation in Python. This example includes two functions: one to calculate the total cost of transporting goods and another to optimize the distribution of goods given certain constraints.
