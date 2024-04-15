@@ -12,7 +12,7 @@ def calculate_transportation_cost(quantity, distance, freight_cost_per_unit):
     Returns:
     float: Total transportation cost.
     """
-    return quantity * distance * freight_cost_per_unit
+    return quantity * distance * freight_cost_per_unit*6
 
 def optimize_distribution(supply, demand):
     """
